@@ -16,6 +16,7 @@ for num in range(1000):
 print(summ)
     
     
+i = 0
 n=0
 sum=0
 
